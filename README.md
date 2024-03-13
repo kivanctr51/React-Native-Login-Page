@@ -1,5 +1,5 @@
 ### Hi there 👋, React Native LoginPage
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Kullanılan Araçlar
 > JavaScript
