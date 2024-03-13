@@ -2,8 +2,8 @@
 ##### React Native ile FireBase kullanilarak Login ve  SignUp Sayfası oluşturma #####
 
 
-**** Kullanılan Araçlar ****
+#### Kullanılan Araçlar ####
 
-> JavaScript
-> React Native
-> FireBase
+#### > JavaScript ####
+#### > React Native ####
+#### > FireBase ####
